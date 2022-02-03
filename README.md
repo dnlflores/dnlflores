@@ -5,6 +5,9 @@
 ### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 <!--
 **dnlflores/dnlflores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
