@@ -1,6 +1,8 @@
 ## Welcome to my GitHub!
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnlflores&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnlflores&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) &nbsp; 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnlflores&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![dnlflores' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dnlflores)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
