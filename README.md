@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CSS          6 mins          ███████████████████████▓░   94.37 % 
 ```
 <!--END_SECTION:waka-->
 ### Languages
