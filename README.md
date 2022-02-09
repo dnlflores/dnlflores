@@ -7,8 +7,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML         1 hr 12 mins    ██████████████████░░░░░░░   72.32 % 
-CSS          27 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.31 % 
+HTML         1 hr 12 mins    ████████████████▓░░░░░░░░   66.89 % 
+CSS          35 mins         ████████▒░░░░░░░░░░░░░░░░   32.76 % 
 ```
 <!--END_SECTION:waka-->
 ### Languages
