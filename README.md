@@ -7,10 +7,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 53 mins   ███████████████▓░░░░░░░░░   63.03 % 
-Python       1 hr 33 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.67 % 
-HTML         1 hr 12 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-CSS          39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+JavaScript   5 hrs 53 mins   ███████████████████░░░░░░   75.61 % 
+Python       1 hr 33 mins    █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+CSS          18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 ```
 <!--END_SECTION:waka-->
 ### Languages
