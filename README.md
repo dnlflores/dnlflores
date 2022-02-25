@@ -7,9 +7,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   21 mins         ███████████████████▓░░░░░   79.12 % 
-Python       3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Docker       2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+JavaScript   4 hrs 43 mins   ████████████████████░░░░░   80.32 % 
+CSS          49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Markdown     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Python       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Docker       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 <!--END_SECTION:waka-->
 ### Languages
