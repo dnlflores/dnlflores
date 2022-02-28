@@ -6,13 +6,16 @@
 ### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   8 hrs 35 mins   ████████████████░░░░░░░░░   64.66 % 
-CSS          3 hrs 51 mins   ███████▒░░░░░░░░░░░░░░░░░   28.99 % 
-Python       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Markdown     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+JavaScript   10 hrs 34 mins  ████████████████▒░░░░░░░░   65.65 %
+CSS          3 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   23.94 %
+Python       1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
+
 <!--END_SECTION:waka-->
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
